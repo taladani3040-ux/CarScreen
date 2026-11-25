@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CarScreen</string>
+    <string name="a11y_label">CarScreen – מגע ממסך הרכב</string>
+    <string name="a11y_desc">מעביר לחיצות וגלילות ממסך הרכב לטלפון בזמן שיקוף, ומסובב את המסך לרוחב. לא קורא תוכן מהמסך.</string>
+</resources>
